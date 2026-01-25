@@ -22,7 +22,7 @@ git add .
 ```
 
 ## 💾 Commit Changes
-``` bash
+``` bashr
 git commit -m "Your commit message"
 ```
 
